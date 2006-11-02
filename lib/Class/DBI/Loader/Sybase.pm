@@ -1,6 +1,7 @@
 package Class::DBI::Loader::Sybase;
 
 use strict;
+use Class::DBI;
 use base 'Class::DBI::Loader::Generic';
 use vars '$VERSION';
 use DBI;
@@ -8,7 +9,7 @@ use Carp;
 require Class::DBI::Sybase;
 require Class::DBI::Loader::Generic;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 =head1 NAME
 

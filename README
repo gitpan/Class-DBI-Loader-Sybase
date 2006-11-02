@@ -1,5 +1,5 @@
-Class-DBI-Loader-Sybase version 0.01
-====================================
+Class-DBI-Loader-Sybase version
+===============================
 
 This module provides a Sybase driver for Class::DBI::Loader.
 
@@ -30,7 +30,7 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2005 by The Smithsonian Astrophysical Observatory.
+Copyright (C) 2005-2006 by The Smithsonian Astrophysical Observatory.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.2 or,
